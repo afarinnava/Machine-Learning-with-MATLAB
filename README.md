@@ -1,7 +1,8 @@
 # Machine-Learning-with-Octave
 Projects developed in Octave/Matlab
 ######################################
-The following OctaveMatlab programs have been developed from 
+
+The following Octave/Matlab programs have been developed from 
 Coursera.org Machine Learning course offered by Professor Andrew Ng.
 
 The topics are:
